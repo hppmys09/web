@@ -1,0 +1,35 @@
+#container{
+	background-color:#AFEEEE;
+	height:460px;
+	width:410px;
+	border-radius:7px;
+	position:relative;
+	top:70px;
+	left:30%;
+	
+}
+.resultbar input{
+	position:relative;
+	left:-0.5px;
+	top:10px;
+	height:60px;
+	width:366px;
+	color:black;
+	background-color:#ffff98;
+	font-family:normal;
+	font-size:35px;
+	text-align:right;
+}
+.button{
+	height:43px;
+	width:60px;
+	border-radius:6px;
+	margin-right:10px;
+	cursor:pointer;
+	
+}
+.button.red{
+	color:white;
+	background-color:red;
+	border-bottom:2px solid #647489;
+}
